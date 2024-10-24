@@ -1,4 +1,4 @@
-local tpl_manager= require('template_manager')
+local tpl_manager= require('temaplate.template_manager')
 
 local command = vim.api.nvim_create_user_command
 
